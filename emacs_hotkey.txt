@@ -1,0 +1,8 @@
+C-x C-f   open file/open a new file
+C-x C-s   save file
+C-x C-c   exit emacs
+C-x b     change buffer in this window
+C-x 0     close this window
+C-x o     next window
+C-x 3     open a new window on right
+q         file route back 
